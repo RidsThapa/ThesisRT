@@ -8,4 +8,5 @@ Results can be exported as an essentiality report CSV file or an essential domai
 
 'tn-seq.csv' file obtained from Mycobacterium tuberculosis H37Rv studies (DeJesus et al., 2017), the file was formatted as a wiggle file in TRANSIT.
 This file is then put in the 'Processing data' code to get 'tnseq_clean.csv'.
+
 'uniprot-proteome_UP000001584.tsv' file obtained from Uniprot Mycobacterium tuberculosis H37Rv, where the file is put in the 'Processing data' code to get 'domains_final.csv'.
